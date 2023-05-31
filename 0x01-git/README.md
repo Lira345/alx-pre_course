@@ -1,1 +1,1 @@
-second commit
+my first readme up to date now 
